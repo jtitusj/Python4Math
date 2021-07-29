@@ -1,0 +1,19 @@
+name: py4math
+channels:
+    - conda-forge
+    - defaults
+    - anaconda
+dependencies:
+    - pip
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - statsmodels
+    - lmfit
+    - xgboost
+    - scikit-learn
+    - jupyter
+    - jupyter_contrib_nbextensions
+    - autopep8
+    - tqdm
